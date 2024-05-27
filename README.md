@@ -40,7 +40,3 @@ The dataset consists of two CSV files:
 - `movie_list.pkl`: Pickle file containing processed movie data.
 - `similarity.pkl`: Pickle file containing cosine similarity matrix.
 
-## Credits
-
-This project was developed by [Your Name]. Contributions are welcome!
-
