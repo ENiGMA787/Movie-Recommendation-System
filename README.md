@@ -15,7 +15,7 @@ The recommendation system uses movie metadata such as genres, keywords, cast, cr
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/movie-recommendation-system.git
+git clone https://github.com/ENiGMA787/movie-recommendation-system.git
 
 
 ## Usage
