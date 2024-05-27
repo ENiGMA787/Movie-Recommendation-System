@@ -20,7 +20,7 @@ git clone https://github.com/ENiGMA787/movie-recommendation-system.git
 
 ## Usage
 
-1. Run the `app.py` file:
+1. Run the `app.py` file: streamlit run app.py
 
 
 2. Select a movie from the dropdown menu.
